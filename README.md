@@ -3,10 +3,10 @@ This is a project based on the following playlist up to episode 3 and no furhter
 
 My contributions are stated using docstrings and comments. The indicator would be "My Creation" or "I added"
 
-My contributions feature:
-  coins and their behavior
-  player attack and its behavior
-  slash projectile and its behavior
-  the ability to jump with spacebar
-  the detection of mouse input
+My contributions feature:<br>
+  coins and their behavior<br>
+  player attack and its behavior<br>
+  slash projectile and its behavior<br>
+  the ability to jump with spacebar<br>
+  the detection of mouse input<br>
   custom images that I got for free use from itch.io
